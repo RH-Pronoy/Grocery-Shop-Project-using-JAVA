@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class CartManager {
 
-    private static final Scanner input = new Scanner(System.in);
+  //  private static final Scanner input = new Scanner(System.in);
 
     public static void addToCart(String category, String phone, int productId, int quantity) {
         try {
