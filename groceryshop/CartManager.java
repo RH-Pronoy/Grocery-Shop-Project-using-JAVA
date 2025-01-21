@@ -1,7 +1,7 @@
 package groceryshop;
 
 import java.sql.*;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class CartManager {
 
